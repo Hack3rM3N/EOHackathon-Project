@@ -238,8 +238,8 @@ nav .navbar .links li:hover .js-sub-menu{
 
 
 .map{
-  padding-top:60px;
-  margin-top: 10px;
+  /*padding-top:60px;
+  margin-top: 10px;*/
   height:100vh;
 }
 
@@ -407,8 +407,7 @@ img{
 }
 
 .home-title{
-  margin-top: 100px;
-  margin-left: 80px;
+  margin-top:65px;
 }
 /*.navbar .search-box i
   position: absolute;
